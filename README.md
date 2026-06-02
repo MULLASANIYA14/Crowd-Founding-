@@ -23,10 +23,10 @@ What trends can help creators improve fundraising performance?
 | Tableau | Data Visualization & Reporting |
 
 ## 📊 Key Dashboard Highlights
--Funds Raised
--Average Pledged Amount
--Funding by Category
--Funding by Country
+- Funds Raised
+- Average Pledged Amount
+- Funding by Category
+- Funding by Country
 ### 🎯 Campaign Performance
 -Total Campaigns
 -Successful vs Failed Campaigns
