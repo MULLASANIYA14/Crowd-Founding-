@@ -28,17 +28,17 @@ What trends can help creators improve fundraising performance?
 - Funding by Category
 - Funding by Country
 ### 🎯 Campaign Performance
--Total Campaigns
--Successful vs Failed Campaigns
--Success Rate Analysis
--Goal Achievement Tracking
+- Total Campaigns
+- Successful vs Failed Campaigns
+- Success Rate Analysis
+- Goal Achievement Tracking
 #### 👥 Backer Insights
--Total Backers
--Average Backers per Campaign
--Most Supported Campaigns
+- Total Backers
+- Average Backers per Campaign
+- Most Supported Campaigns
 #### 🌎 Geographic Analysis
--Country-wise Funding Distribution
--Regional Performance Comparison
+- Country-wise Funding Distribution
+- Regional Performance Comparison
 ## 📈 Key Insights Generated
 
 ✅ Identified top-performing crowdfunding categories.
